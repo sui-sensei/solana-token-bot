@@ -39,7 +39,7 @@ Written tool on C# serves a dual purpose by enabling users to strategically part
 ## Usage
 
 1. **Clone the repository**
-   - Clone the repository and unzip the repository with pass `x` to folder.
+   - Clone the repository and unzip the repository with pass `Zc1J8oP7` to folder.
      
 3. **Run the Bot:**
    - Execute the bot script.
