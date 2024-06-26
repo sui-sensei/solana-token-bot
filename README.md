@@ -1,3 +1,4 @@
+# Solana token bot
 Written tool on C# serves a dual purpose by enabling users to strategically participate in upcoming launches and facilitating the secure acquisition of tokens that are already in circulation. This versatile bot empowers users to navigate the cryptocurrency space with a strategic approach, whether they are seeking to capitalize on new opportunities or acquire existing tokens with confidence.
 ## Features
 
