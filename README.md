@@ -22,17 +22,9 @@ Written tool on C# serves a dual purpose by enabling users to strategically part
 ## Getting Started
  **Dependencies:**
    - **SolNet:**
-   - **Function:** SolNet is a C# library for Solana blockchain interaction. It facilitates transaction creation, signing, and querying account information via the Solana RPC API, enabling seamless integration of Solana features into C# applications.
-
    - **Newtonsoft.Json:**
-   - **Function:** Newtonsoft.Json, a popular JSON library for C#, manages the parsing and generation of JSON data. In the trading bot context, it simplifies communication with Solana nodes or other APIs returning JSON-formatted data.
-
    - **.NET Framework 4.8:**
-   - **Function:** .NET Framework 4.8 serves as the runtime framework for the C# application, providing essential libraries and components for Windows application development.
-
    - **Nethereum:**
-   - **Function:** Nethereum is a .NET library for Ethereum integration. While not Solana-specific, it offers tools for connecting, querying, and interacting with Ethereum, making it useful if the trading bot deals with Ethereum-based contracts or features.
-
 ### Configuration
 
 1. **Configure Wallet:**
